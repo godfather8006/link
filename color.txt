@@ -1,7 +1,3 @@
 hi iam orange
-hi iam green
-hii iam colourless
-hii iam developer.
-hii iam red.
-iam blue
+
 
