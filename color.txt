@@ -1,3 +1,5 @@
 hi iam orange
+git init
+cd -myapp
 
 
